@@ -4,7 +4,7 @@
         // Collect form data
         $username = $_POST['username'];
         $password = $_POST['password'];
-        
+
         // Basic validation
         if (empty($username) || empty($password)) {
             echo "Username and password are required.";

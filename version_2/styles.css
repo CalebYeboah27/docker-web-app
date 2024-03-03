@@ -12,7 +12,7 @@ body {
 
 .body {
     display: flex;
-    gap: 17rem;
+    gap: 12rem;
     min-height: 100vh;
 }
 
@@ -42,7 +42,7 @@ body {
     justify-content: center;
     gap: 2.4rem;
     min-width: 25vw;
-    min-height: 40vh;
+    min-height: 60vh;
 }
 
 .password,
